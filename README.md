@@ -57,7 +57,7 @@
 
 
 
-【衍生声明】本软件（[MeowChat]）基于开源项目 AIRI（项目地址：[(https://github.com/moeru-ai/airi)]）修改而来。  
-AIRI 项目的原始版权归 [moeru-ai] 所有，遵循 MIT 开源协议。  
+【衍生声明】本软件（[MeowChat]）基于开源项目 AIRI（项目地址：[https://github.com/moeru-ai/airi]）修改而来。  
+AIRI 项目的原始版权归 [[moeru-ai](https://github.com/moeru-ai)] 所有，遵循 MIT 开源协议。  
 本软件中来源于 AIRI 的部分，其使用权遵循 MIT 协议；本软件新增的原创内容，其版权归 [[tataqioko](https://github.com/tataqioko)] 所有，遵循本软件附带的商业授权协议。
 
