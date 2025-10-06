@@ -1,8 +1,8 @@
 # MeowChat-issues
 该站点用于提bug和发展建议
-> 深受 [Neuro-sama](https://www.youtube.com/@Neurosama) 启发
-> 深受 [AIRI](https://www.youtube.com/@Neurosama) 启发
-> 深受 [市面上各类小手机] 启发
+> - 深受 [Neuro-sama](https://www.youtube.com/@Neurosama) 启发
+> - 深受 [AIRI](https://www.youtube.com/@Neurosama) 启发
+> - 深受 [市面上各类小手机] 启发
 
 > [!WARNING]
 > **注意：**
