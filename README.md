@@ -11,14 +11,32 @@
 >  联系我们：
 >  QQ群：1062403796
 
-## 当前进度
+
+## 已经完成
+- [x] 根据用户要求创立提醒任务
+- [x] 为ai聊天界面设计头像
+- [x] 仿聊天界面布局
+- [x] 打电话功能（未完善）
+ 
+
+
+## 开发计划
+- [ ] 由ai自主生成动态
+- [ ] 为用户设定用户自己的人格给ai看
+- [ ] ai自主寻找用户发送信息
+- [ ] ai群聊天
+- [ ] l2d模型自主活动（such like Neruo）
+- [ ] 更好的记忆
+- [ ] 更好的系统内置提示词
+- [ ] 识别屏幕
+- [ ] 通过摄像头识别环境
+- [ ] ai离线活动
+- [ ] ...
+
+## AIRI原项目提供的基础
 
 - [x] 思维能力
-  - [x] 玩 [Minecraft](https://www.minecraft.net)
-  - [x] 玩 [Factorio](https://www.factorio.com)
-  - [x] 在 [Telegram](https://telegram.org) 聊天
-  - [x] 在 [Discord](https://discord.com) 聊天
-  - [ ] 记忆
+  - [x] 记忆
     - [x] 纯浏览器内数据库支持（基于 DuckDB WASM 或者 `sqlite`）
     - [ ] Alaya 记忆层（施工中）
   - [ ] 纯浏览器的本地推理（基于 WebGPU）
@@ -43,19 +61,6 @@
     - [x] 自动看
     - [x] 空闲眼睛移动
        
-
-
-
-## 开发计划
-- [ ] 由ai自主生成动态
-- [ ] ai自主寻找用户发送信息
-- [ ] ai群聊天
-- [ ] l2d模型自主活动（such like Neruo）
-- [ ] 更好的记忆
-- [ ] 更好的系统内置提示词
-- [ ] ...
-
-
 
 【衍生声明】本软件（[MeowChat]）基于开源项目 AIRI（项目地址：[AIRI](https://github.com/moeru-ai/airi)）修改而来。  
 AIRI 项目的原始版权归 [[moeru-ai](https://github.com/moeru-ai)] 所有，遵循 MIT 开源协议。  
